@@ -2,7 +2,7 @@
 
 <p>
       <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  I'm <strong>Asaad Jawed</strong>, a passionate self-taught MERN stack dveloper from Pakistan. Since the very first line of code I write in my life till now, I am obsessed with writing software programs that manipulate data and produce results. I am an undergraduate student, wants to pursue a career in JavaScript development.
+  I'm <strong>Asaad Jawed</strong>, a passionate self-taught Front End developer from Pakistan. Since the very first line of code I write in my life till now, I am obsessed with writing software programs that manipulate data and produce results. I am a Graduate student, wants to pursue a career in JavaScript development.
 My core competencies are:
       <ol>
 <li>JavaScript and ReactJs to build a cross-browser web front-end.</li>
