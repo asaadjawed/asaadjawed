@@ -14,7 +14,7 @@ Welcome to my GitHub repository! I'm Muhammad Asaad, a Software Engineer with a 
 
 ## About Me
 
-I am currently pursuing my Master's degree in Informatics Embedded Systems at the University of Siegen, Germany. With over 3 years of full-time experience as a Software Engineer, I've had the opportunity to work on various projects involving front-end development, firmware for embedded systems, and more. My passion lies in creating user-friendly interfaces and optimizing performance using modern web technologies.
+I am currently pursuing my Master's degree in Computer Science at the University of Siegen, Germany. With over 3 years of full-time experience as a Software Engineer, I've had the opportunity to work on various projects involving front-end development, firmware for embedded systems, and more. My passion lies in creating user-friendly interfaces and optimizing performance using modern web technologies.
 
 ## Skills
 
@@ -25,7 +25,7 @@ I am currently pursuing my Master's degree in Informatics Embedded Systems at th
   - State Management: Redux Toolkit, React Query
 
 - **Embedded Systems:**
-  - Programming Languages: C++, C, C#
+  - Programming Languages: C++, C
   - Tools: Vivado, Zybo20, ESP32 S3 Microcontroller
   - Development: Device drivers, low-level software components
 
@@ -47,15 +47,11 @@ I am currently pursuing my Master's degree in Informatics Embedded Systems at th
 ## Professional Experience
 
 - **Software Engineer - BITSPRO, Karachi, Pakistan**  
-  (September 2022 - February 2023)  
+  (May 2022 - February 2023)  
   Developed firmware for embedded systems, optimized code, and collaborated with hardware engineers.
 
-- **Software Engineer - AL REHMAN TECHNOLOGIES, Karachi, Pakistan**  
-  (May 2022 - August 2022)  
-  Optimized web-based applications, implemented project designs, and participated in development reviews.
-
 - **Associate Engineer - INAPP SOLUTIONS, Karachi, Pakistan**  
-  (October 2021 - January 2022)  
+  (June 2021 - January 2022)  
   Supported debugging processes, assisted in product idea development, and utilized React JS and Next JS for front-end projects.
 
 ## How to Use
